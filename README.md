@@ -23,6 +23,6 @@ A Next.js application that allows users to search for recipes using keywords, cu
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/recipe-finder.git
+git clone https://github.com/Oleksander12345/DevelopsTodayTestTask.git
 cd recipe-finder
 npm install
